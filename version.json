@@ -2,4 +2,5 @@
     "version_name": "0.2.1",
     "force_update": false,
     "message": "Ein neues Update ist verfügbar."
+    "url": "market://details?id=gemons.mythmaker"
 }

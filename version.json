@@ -1,6 +1,5 @@
 {
-    "version_code": 1,
-    "version_name": "0.1.0",
-    "force_update": true,
+    "version_name": "0.2.1",
+    "force_update": false,
     "message": "Ein neues Update ist verfügbar."
 }

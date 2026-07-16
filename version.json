@@ -3,6 +3,6 @@
     "force_update": false,
     "message": "Ein neues Update ist verfügbar.",
     "url": "https://play.google.com/apps/internaltest/4701425498226396561",
-    "spalsh": true,
+    "splash": true,
     "splash_id": "hinweis-1"
 }

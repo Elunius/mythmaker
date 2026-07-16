@@ -2,5 +2,6 @@
     "version_name": "0.2.1",
     "force_update": false,
     "message": "Ein neues Update ist verfügbar.",
-    "url": "https://play.google.com/apps/internaltest/4701425498226396561"
+    "url": "https://play.google.com/apps/internaltest/4701425498226396561",
+    "spalsh": true
 }

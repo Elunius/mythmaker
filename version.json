@@ -4,5 +4,6 @@
     "message": "Ein neues Update ist verfügbar.",
     "url": "https://play.google.com/apps/internaltest/4701425498226396561",
     "splash": true,
-    "splash_id": "hinweis-1"
+    "splash_id": "hinweis-1",
+    "reset": false
 }

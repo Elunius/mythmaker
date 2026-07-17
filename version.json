@@ -1,6 +1,6 @@
 {
     "version_name": "0.4.0",
-    "force_update": false,
+    "force_update": true,
     "message": "Ein neues Update ist verfügbar.",
     "url": "https://play.google.com/apps/internaltest/4701425498226396561",
     "splash": true,

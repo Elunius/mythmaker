@@ -1,9 +1,9 @@
 {
-    "version_name": "0.3.0",
+    "version_name": "0.4.0",
     "force_update": false,
     "message": "Ein neues Update ist verfügbar.",
     "url": "https://play.google.com/apps/internaltest/4701425498226396561",
     "splash": true,
-    "splash_id": "hinweis-1",
+    "splash_id": "hinweis-2",
     "reset": true
 }
